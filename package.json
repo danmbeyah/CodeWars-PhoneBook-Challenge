@@ -1,0 +1,16 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "Reads contacts from text and formats them",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Daniel Mbeyah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fuse.js": "^3.2.1",
+    "lazy.js": "^0.5.1"
+  }
+}
